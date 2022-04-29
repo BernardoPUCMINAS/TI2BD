@@ -1,3 +1,7 @@
 # TRABALHO INTERDISCIPLINAR II: BANCOS DE DADOS E SISTEMAS INTELIGENTES
 
 
+Exercícios pedidos.
+01: Finish
+02: Finish
+03: Finish
